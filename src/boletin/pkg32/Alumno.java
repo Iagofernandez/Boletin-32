@@ -98,11 +98,14 @@ public class Alumno {
 
         @Override
         public String toString() {
-            return "rua= " + rua + "\n                      numero= " + numero;
+            return "Enderezo{" + "rua=" + rua + ", numero=" + numero + '}';
+        }
+
+       
         }
         
     }
 
     
-}
+
 
